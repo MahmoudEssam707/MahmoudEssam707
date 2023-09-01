@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudessam707&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudessam707" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudessam707" alt="mahmoudessam707" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mahmoudessam70" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoudessam70?logo=twitter&style=for-the-badge" alt="mahmoudessam70" /></a> </p>
-
 - 🔭 I’m currently still student at [Faculty of Computer and Data science](https://www.facebook.com/FCDS.AlexU/)
 
 - 🌱 I’m currently learning **Deploying Models using Dash and Streamlit!**
