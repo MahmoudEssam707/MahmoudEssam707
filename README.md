@@ -1,5 +1,5 @@
-<!-- Background Image -->
-![Background Image](https://your-background-image-url.jpg)
+<!-- Background GIF -->
+![Background GIF](https://j.gifs.com/pgV2or.gif)
 
 <!-- Centered Header with Greeting and Name -->
 <h1 align="center">Hi 👋, I'm Mahmoud Essam!</h1>
@@ -58,26 +58,8 @@ I'm a dedicated student at [Faculty of Computer and Data Science](https://www.fa
   </a>
 </p>
 
-<!-- Languages and Tools Section -->
-## 💻 Languages and Tools
-
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <!-- Add more languages and tools here -->
-</p>
-
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
-
-<!-- GitHub Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudessam707&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <!-- GitHub Stats -->
 <p align="center">
