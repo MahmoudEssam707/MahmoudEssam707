@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mahmoud Essam!</h1>
-<h3 align="center">An enthusiastic student from exploring the world of data science.</h3>
+<h3 align="center">An enthusiastic data scintist exploring the world of data </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudessam707&label=Profile%20views&color=19b40e&style=flat" alt="mahmoudessam707" /> </p>
 
@@ -10,11 +10,9 @@
 
 - 🔭 I’m currently still student at [Faculty of Computer and Data science](https://www.facebook.com/FCDS.AlexU/)
 
-- 🌱 I’m currently learning **Deploying Models using Dash and Streamlit!**
-
 - 📫 How to reach me **umahmoudessamu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EfUMpQ3TNe5QVkCCBaaQTBmw7joq5ETN/view?usp=sharing](https://drive.google.com/file/d/1EfUMpQ3TNe5QVkCCBaaQTBmw7joq5ETN/view?usp=sharing)
+- 📄 Know about my experiences [Press here for resume](https://drive.google.com/file/d/1EfUMpQ3TNe5QVkCCBaaQTBmw7joq5ETN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
