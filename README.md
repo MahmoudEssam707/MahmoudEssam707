@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **umahmoudessamu@gmail.com**
 
-- 📄 Know about my experiences [Press here for resume](https://github.com/MahmoudEssam707/Projects/blob/main/Certificates/Resume/CV_1.pdf)
+- 📄 Know about my experiences [Press here for resume](https://github.com/MahmoudEssam707/Projects/blob/main/Certificates/Mahmoud%20Essam.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
