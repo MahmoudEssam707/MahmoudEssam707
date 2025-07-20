@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mahmoud Essam!</h1>
-<h3 align="center">An enthusiastic data scintist exploring the world of data </h3>
+<h3 align="center">An enthusiastic AI Engineer exploring the world of data </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudessam707&label=Profile%20views&color=19b40e&style=flat" alt="mahmoudessam707" /> </p>
 
